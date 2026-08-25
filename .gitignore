@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+*.dll
+*.pyd
+
+# Executables & installers
+*.exe
+*.msi
+*.bin
+*.app
+build/
+dist/
+*.spec
+
+# SQLite Database & local runtime logs
+database/*.db
+database/*.db-journal
+logs/*.log
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
